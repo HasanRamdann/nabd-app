@@ -1,0 +1,8 @@
+{
+  "name": "Nabd (نبض)",
+  "description": "منصة تواصل اجتماعي عربية متطورة تجمع بين الذكاء الاصطناعي، التفاعل الحي، ونظام المكافآت.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
